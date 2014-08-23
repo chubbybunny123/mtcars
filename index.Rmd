@@ -1,0 +1,29 @@
+---
+title: "Motor Trends - Autmatic vs Manual"
+output: pdf_document
+---
+### Executive Summary
+describes and summarizes your analysis in at most 10 complete sentences.
+
+### Data Processing
+The *mtcars* data used for this analysis was supplied in the R library 
+*datasets*.  
+(in words
+and code) how the data were loaded into R and processed for analysis. In
+particular, your analysis must start from the raw CSV file containing the
+data. You cannot do any preprocessing outside the document. If preprocessing
+is time-consuming you may consider using the cache = TRUE option for certain
+code chunks.
+
+### Results
+
+##Document Layout
+- Title: Your document should have a title that briefly summarizes your data
+analysis
+
+2 pages or less of text in analysis
+max 2 figures in main report
+3 additional in appendix.
+
+- The analysis document must have at least one figure containing a plot.
+Figures may have multiple plots in them (i.e. panel plots), but there cannot be more than three figures total.
